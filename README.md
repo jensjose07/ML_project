@@ -1,0 +1,2 @@
+# Hackathon
+Cinehack hackathon
