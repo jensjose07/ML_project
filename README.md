@@ -454,6 +454,3 @@ If you are using a third-party dataset, check and comply with the dataset's orig
 
 ---
 
-## ⭐ If You Like This Project
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
